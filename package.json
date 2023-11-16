@@ -1,4 +1,3 @@
-
 {
   "name": "daisyui-v3-to-v4-codemods",
   "version": "0.1.0",
@@ -10,8 +9,17 @@
   },
   "bin": "./bin/cli.js",
   "keywords": [
+    "codemod",
+    "codemods",
+    "daisyui",
     "codemod-cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajasegar/daisyui-v3-to-v4-codemods"
+  },
+  "license": "MIT",
+  "author": "Rajasegar Chandran",
   "dependencies": {
     "codemod-cli": "^3.2.0"
   },

@@ -1,7 +1,6 @@
-
 # daisyui-v3-to-v4-codemods
 
-A collection of codemods for upgrading DaisyUI from v3 to v4
+A collection of codemods for upgrading [DaisyUI](https://daisyui.com) from v3 to v4
 
 ## Usage
 
