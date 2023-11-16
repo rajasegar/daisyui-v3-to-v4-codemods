@@ -1,6 +1,6 @@
 {
   "name": "daisyui-v3-to-v4-codemods",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "lint": "eslint --cache .",
     "test": "codemod-cli test",
@@ -39,4 +39,3 @@
     "testEnvironment": "node"
   }
 }
-
