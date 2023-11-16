@@ -1,19 +1,19 @@
 
-# jarvis-codemods
+# daisyui-v3-to-v4-codemods
 
-A collection of codemods for generated using JARVIS
+A collection of codemods for upgrading DaisyUI from v3 to v4
 
 ## Usage
 
 To run a specific codemod from this project, you would run the following:
 
 ```
-npx jarvis-codemods <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
+npx daisyui-v3-to-v4-codemods <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 
 # or
 
-yarn global add jarvis-codemods
-jarvis-codemods <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
+yarn global add daisyui-v3-to-v4-codemods
+daisyui-v3-to-v4-codemods <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ```
 
 ## Local Usage
@@ -24,6 +24,8 @@ node ./bin/cli.js <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ## Transforms
 
 <!--TRANSFORMS_START-->
+* [add-uppercase-to-btn](transforms/add-uppercase-to-btn/README.md)
+* [tab-modifiers](transforms/tab-modifiers/README.md)
 <!--TRANSFORMS_END-->
 
 ## Contributing
