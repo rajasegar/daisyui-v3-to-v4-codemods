@@ -1,5 +1,7 @@
 # daisyui-v3-to-v4-codemods
 
+[![npm version](http://img.shields.io/npm/v/daisyui-v3-to-v4-codemods.svg?style=flat)](https://npmjs.org/package/daisyui-v3-to-v4-codemods 'View this project on npm')
+
 A collection of codemods for upgrading [DaisyUI](https://daisyui.com) from v3 to v4
 
 ## Usage
